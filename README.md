@@ -1,9 +1,7 @@
 # K2Field.PreReqV2 #
 
 ### Summary ###
-PowerShell script to install & configure basic prerequisites for K2 (Windows roles &amp; features).
-
-![alt tag](http://timhuettemeister.com/wp-content/uploads/2015/09/2016_04_03_10_34_22_Administrator_Windows_PowerShell.jpg "K2Field.PreReq")
+PowerShell script to install & configure basic prerequisites for K2 (Windows roles &amp; features). New/improved version of original [K2Field.PreReq script](https://github.com/timmes/K2Field.PreReq).
 
 ### Tested with ###
 
