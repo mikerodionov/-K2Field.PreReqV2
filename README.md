@@ -1,5 +1,7 @@
 # K2Field.PreReqV2 #
 
+[![PSScriptAnalyzer](https://github.com/mikerodionov/K2Field.PreReqV2/actions/workflows/powershell.yml/badge.svg)](https://github.com/mikerodionov/K2Field.PreReqV2/actions/workflows/powershell.yml)
+
 ### Summary ###
 PowerShell script to install & configure basic prerequisites for K2 (Windows roles &amp; features). New/improved version of original [K2Field.PreReq script](https://github.com/timmes/K2Field.PreReq).
 
