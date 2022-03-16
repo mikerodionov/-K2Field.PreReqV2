@@ -9,6 +9,7 @@ PowerShell script to install & configure basic prerequisites for K2 (Windows rol
 
 Windows Versions:
 
+- Windows Server 2016
 - Windows Server 2019
 
 K2 Versions
