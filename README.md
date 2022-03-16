@@ -5,7 +5,7 @@
 ### Summary ###
 PowerShell script to install & configure basic prerequisites for K2 (Windows roles &amp; features). New/improved version of original [K2Field.PreReq script](https://github.com/timmes/K2Field.PreReq).
 
-### Tested with ###
+### Tested with (manual testing) ###
 
 Windows Versions:
 
