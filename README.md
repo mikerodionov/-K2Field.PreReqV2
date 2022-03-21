@@ -11,6 +11,7 @@ Windows Versions:
 
 - Windows Server 2016
 - Windows Server 2019
+- Windows Server 2012R2
 
 K2 Versions
 
